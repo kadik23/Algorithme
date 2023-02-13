@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670609395 source:d:\ide\code blocks\c++\adn_travail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1674579752 source:d:\ide\code blocks\c\adn_travail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
